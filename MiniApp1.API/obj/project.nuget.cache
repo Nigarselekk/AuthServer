@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDqkICG3Xw8BXlAEF1J85l5+qRqJAVj1jWL95x4qkJVGWgriLTDsoYrSx8l0I2igOAW+ClU9xNPrT1ZtMJw8aQ==",
+  "success": true,
+  "projectFilePath": "/Users/nigar/Projects/AuthServer/MiniApp1.API/MiniApp1.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/nigar/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/nigar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nigar/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/nigar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/nigar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/nigar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

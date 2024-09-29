@@ -1,0 +1,12 @@
+/Users/nigar/Projects/AuthServer/SharedLibrary/bin/Debug/net6.0/SharedLibrary.deps.json
+/Users/nigar/Projects/AuthServer/SharedLibrary/bin/Debug/net6.0/SharedLibrary.dll
+/Users/nigar/Projects/AuthServer/SharedLibrary/bin/Debug/net6.0/SharedLibrary.pdb
+/Users/nigar/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/nigar/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nigar/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/nigar/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfo.cs
+/Users/nigar/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/nigar/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.dll
+/Users/nigar/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/refint/SharedLibrary.dll
+/Users/nigar/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.pdb
+/Users/nigar/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/ref/SharedLibrary.dll
