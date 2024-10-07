@@ -38,3 +38,7 @@
 /Users/nigar/Projects/AuthServer/AuthServer.API/obj/Debug/net6.0/AuthServer.API.pdb
 /Users/nigar/Projects/AuthServer/AuthServer.API/obj/Debug/net6.0/AuthServer.API.genruntimeconfig.cache
 /Users/nigar/Projects/AuthServer/AuthServer.API/obj/Debug/net6.0/ref/AuthServer.API.dll
+/Users/nigar/Projects/AuthServer/AuthServer.API/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/nigar/Projects/AuthServer/AuthServer.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/nigar/Projects/AuthServer/AuthServer.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nigar/Projects/AuthServer/AuthServer.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
